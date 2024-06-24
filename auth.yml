@@ -7,3 +7,6 @@ registry.cn-shenzhen.aliyuncs.com:
 registry.cn-zhangjiakou.aliyuncs.com:
   username: pre_com_odps_public
   password: Test1234
+registry.cn-zhangjiakou.aliyuncs.com/starrocks-inner:
+  username: pre_com_odps_public
+  password: Test1234
